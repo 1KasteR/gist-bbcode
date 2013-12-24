@@ -6,6 +6,7 @@
 +--------------------------------------------------------+
 | Filename: gist_bbcode_include.php
 | Author: KasteR
+| Website: http://kaster.us/
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
