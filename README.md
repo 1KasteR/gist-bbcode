@@ -1,12 +1,12 @@
-Gist BBCode Readme
+Soundcloud BBCode Readme
 ===========
 <p><b>AUTHOR:</b> KasteR</p>
-<p><b>WEBSITE:</b> <a href='http://kaster.us' target='_blank'>http://kaster.us/</a></p>
+<p><b>WEBSITE:</b> <a href='http://www.kaster.us' target='_blank'>http://www.kaster.us/</a></p>
 <hr />
 
 
 <h4>DESCRIPTION:</h4>
-<p>This bbcode will allow a user to display a gist from https://gist.github.com/ embeded into their forum post for <a href='http://www.php-fusion.co.uk/' target='_blank'>PHP-Fusion</a> CMS.</p>
+<p>This bbcode will allow a user to display a playlist from http://www.soundcloud.com embedded into their forum post for <a href='http://www.php-fusion.co.uk/' target='_blank'>PHP-Fusion</a> CMS.</p>
 
 
 <h4>INSTALLATION:</h4>
@@ -15,8 +15,8 @@ Gist BBCode Readme
 Go to:
 <p>Admin panel > System Admin > BB Codes
 
-In the Disabled BB Codes table, locate Gist and select Enable.</p>
+In the Disabled BB Codes table, locate Soundcloud and select Enable.</p>
 
 
 <h4>EXAMPLE:</h4>
-<p>[gist]8117900[/gist]</p>
+<p>[soundcloud]https://soundcloud.com/kaster-3/sets/in-paradisum[/soundcloud]</p>
